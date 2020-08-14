@@ -1,2 +1,3 @@
 # hello-world
-1st prject to start with a git
+1st project to start with a git.
+Myself etc
